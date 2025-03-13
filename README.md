@@ -1,3 +1,4 @@
+![NotPaperMario](media/notpapermariologo.PNG)
 ## Hi there 👋
 
 <!--
