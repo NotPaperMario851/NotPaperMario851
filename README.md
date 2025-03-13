@@ -1,4 +1,4 @@
-![NotPaperMario](media/notpapermariologo.PNG)
+<img src="media/notpapermariologo.PNG" height="15%">
 ## procrastination is key here
 
 <!--
