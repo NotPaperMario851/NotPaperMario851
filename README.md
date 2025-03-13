@@ -1,5 +1,5 @@
 ![NotPaperMario](media/notpapermariologo.PNG)
-## Hi there 👋
+## procrastination is key here
 
 <!--
 **NotPaperMario851/NotPaperMario851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
